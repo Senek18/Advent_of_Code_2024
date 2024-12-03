@@ -1,2 +1,3 @@
 # Advent_of_Code_2024
-![image](https://github.com/user-attachments/assets/93bba56e-6bec-45e9-832f-0b5617e6794c)
+![image](https://github.com/user-attachments/assets/32bab626-8434-4a73-ba36-cd6ed3b54d61)
+
