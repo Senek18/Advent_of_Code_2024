@@ -7,7 +7,6 @@ def has_decimal(number):
     return not number.is_integer()
 
 add = 10000000000000
-# add = ""
 
 count = 0
 for idx, i in enumerate(range(0, len(data), 4)):
